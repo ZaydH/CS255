@@ -1,0 +1,9 @@
+c:\users\zayd\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\zayd\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\zayd\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+c:\users\zayd\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #2\Homework #2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #2\Homework #2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #2\Homework #2\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #2\Homework #2\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #2\Homework #2\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

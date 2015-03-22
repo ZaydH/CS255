@@ -1,0 +1,6 @@
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #4\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #4\HW4\HW4\obj\Debug\HW4.csprojResolveAssemblyReference.cache
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #4\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #4\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #4\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\Zayd\Google_Drive\Zayd_SJSU\CS255\Homework\Homework #4\HW4\HW4\obj\Debug\HW4.pdb
